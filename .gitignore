@@ -1,0 +1,8 @@
+# Rust Generated Output
+dist
+target
+
+# Nix Generated Output
+.devenv
+.devnix
+.direnv
